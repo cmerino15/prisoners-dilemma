@@ -3,15 +3,22 @@
 
 ## run `g++ main.cpp` then create the executable
 
+# Screenshots
+
+### Menu 
 
 ![Menu](images/menu.png)
 
+### Choosing to cooperate
+
 ![Choice - cooperate](images/cooperate.png)
+
+### Results against the computer
 
 ![Results](images/results.png)
 
 
-todo:
+# todo:
 
   1. Update rand() function
 
