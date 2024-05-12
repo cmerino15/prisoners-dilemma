@@ -1,7 +1,13 @@
 
 # Cpp program to simulate the Prisoner's Dilemma
 
-## run `g++ main.cpp` then run the executable
+Wrote this program for an undergraduate project
+
+## To Run
+
+Run `g++ main.cpp` 
+
+Run the executable file that's created 
 
 # Screenshots
 
